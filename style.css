@@ -23,6 +23,15 @@
   background-color: white;
 }
 
+a {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 8px 20px;
+  color: black;
+  background-color: #b0b0b0;
+  text-decoration: none;
+}
+
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
